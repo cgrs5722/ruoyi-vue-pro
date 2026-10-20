@@ -1,0 +1,19 @@
+README.md
+  s_3399c29ed29aed::t_6f1a282bddf19f 137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b3a6ad5a471ad407a2f26f82d7c79da54eea9d9a",
+  "prompts": {},
+  "sessions": {
+    "s_3399c29ed29aed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6044dca8-243f-4bb0-8b5c-fc11f080409c",
+        "model": "glm-5.3"
+      },
+      "human_author": "cgrs5722 <cgrs5722@users.noreply.github.com>"
+    }
+  }
+}
