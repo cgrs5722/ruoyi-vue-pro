@@ -1,0 +1,36 @@
+yudao-module-pay/src/test/java/cn/iocoder/yudao/module/pay/service/refund/PayRefundServiceTest.java
+  s_3399c29ed29aed::t_9a2bc2a1febc94 1285-1294
+  s_3399c29ed29aed::t_4c0bab0f9968e6 880
+  s_3399c29ed29aed::t_efa92a99856cf6 845-854,857-879,881-882,884-885,887-893,895-896,898-905
+  s_3399c29ed29aed::t_655eebabaf1cfb 897
+  s_3399c29ed29aed::t_916cc486280c52 883
+  s_3399c29ed29aed::t_f87efeb0115062 856
+  s_3399c29ed29aed::t_daeb1e5c666c10 1269-1284
+  s_3399c29ed29aed::t_350ecbd1458c64 894
+  s_3399c29ed29aed::t_866fb8f93586c3 855
+  s_3399c29ed29aed::t_6492052927f525 886
+yudao-module-pay/src/main/java/cn/iocoder/yudao/module/pay/service/refund/PayRefundServiceImpl.java
+  s_3399c29ed29aed::t_97b1a0a416cb56 41
+  s_3399c29ed29aed::t_289180ba100512 40
+  s_3399c29ed29aed::t_c323caf1f2659b 186
+  s_3399c29ed29aed::t_9d60011e5e3177 332,334-340,349-350
+  s_3399c29ed29aed::t_a72e8218d399ab 351
+  s_3399c29ed29aed::t_cb052aa42ba670 308,311-316,324,328-331,333,341-348,352-362
+  s_3399c29ed29aed::t_e8c5c888f49e24 212-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "871b4118303c269d499f86c381a8f1d86e6391ce",
+  "prompts": {},
+  "sessions": {
+    "s_3399c29ed29aed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6044dca8-243f-4bb0-8b5c-fc11f080409c",
+        "model": "glm-5.3"
+      },
+      "human_author": "cgrs5722 <cgrs5722@users.noreply.github.com>"
+    }
+  }
+}
